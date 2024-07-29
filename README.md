@@ -27,5 +27,6 @@ To run this project, you will need a web browser that supports HTML5, CSS3, and 
    ```sh
    git clone https://github.com/your-username/todo-list-app.git
 2. Navigate to the project directory:
+   ```sh
    cd todo-list-app
 
